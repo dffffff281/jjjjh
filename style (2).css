@@ -1,0 +1,106 @@
+header{
+    background-color: rgb(17, 0, 0);
+    height: 800px;
+    color:rgb(250, 253, 255);
+    font-size: 30px;
+    width: 100%;
+    background-image: url(https://preview.redd.it/reverse-1999-timekeepers-guide-v0-x26omqorejwb1.png?width=1080&crop=smart&auto=webp&s=f26103f3401b2865f20c30051da745ec503df37c);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no repeat;
+    padding-top: 50px;
+}
+
+h1{
+    text-align: left;
+    font-size: 40px;
+    color :azure;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: black 2px 5px 5px ;
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+    color :azure;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: black 2px 5px 5px ;
+}
+
+main{
+    background-color: rgb(0, 3, 2);
+    height: 2500px;
+    color:rgb(255, 255, 255);
+    font-size: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background: linear-gradient( to left, rgb(0, 2, 0), rgb(0, 0, 0)); 
+    background-image: url(https://m.media-amazon.com/images/M/MV5BYjcxYTQxNGQtZjdjNi00MGVlLWFlYzgtNzhkZmU4YzEyYmUxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg;);
+}
+
+footer{
+    background-color: rgb(0, 0, 0);
+    height: 100%;
+    color:rgb(255, 255, 255);
+    font-size: 30px;
+    width: 100%;
+    background: linear-gradient( to left, rgba(55, 59, 2, 0.815), rgba(41, 40, 1, 0.568)); 
+    display: flex;
+}
+
+.container{
+    width:80%;
+    height: 100%;
+    background-color: rgb(0, 0, 0);
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    display: flex;
+}
+
+.left{
+    width: 50%;
+    height: 90%;
+    background-color: rgb(0, 0, 0);
+    float: left;
+    padding: 10px;
+}
+
+
+.right{
+    width: 50%;
+    height: 94%;
+    background-color: rgb(0, 0, 0);
+    float: right;
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding: 10px;
+    text-align: center;
+}
+
+body{
+    margin: 0;
+}
+
+.f_left{
+    width: 30%;
+    float: left;
+    text-align: center;
+    padding: 20px;
+}
+
+.f_left img{
+    padding-top: 20px;
+}
+
+.f_center{
+    width: 70%;
+    float: right;
+    list-style: none;
+}
+
+.f_center img{
+    width:100px
+}
